@@ -17,7 +17,7 @@ int main(void){
     for (int i = 1; i <= (days + day - 1); i++)
     {
 
-        if ( i > day - 1){
+        if ( i >= day){
             printf("%3d", currentDay++);
         }else {
             printf("   ");
