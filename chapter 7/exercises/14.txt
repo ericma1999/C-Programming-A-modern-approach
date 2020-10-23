@@ -1,0 +1,8 @@
+Does the following statement always compute the fractional part of f correctly
+
+frac_part = f - (int) f;
+
+
+yes. Example f = 1.1
+
+1.1 - (int) 1.1 = 1.1 - 1 = 0.1
