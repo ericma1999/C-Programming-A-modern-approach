@@ -1,0 +1,12 @@
+For each of the following character escapes, give the equivalent octal escape. 
+
+
+(a) \b
+(b) \n
+(c) \r
+(d) \t
+
+(a) value: 8 octal: \010
+(b) value: 10 octal: \12
+(c) value: 13 octal: \15
+(d) value: 9 octal: \11

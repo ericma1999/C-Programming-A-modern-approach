@@ -1,0 +1,8 @@
+If c is a variable of type char, which one of the following statements is illegal
+
+(a) i += c; 
+(b) c = 2 * c - 1
+(c) putchar(c)
+(d) printf(c)
+
+(d) as you need a formatting string to print the character out

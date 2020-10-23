@@ -1,0 +1,12 @@
+For each of the following items of data, specify which one of the types char, short, int or long is the smallest oneguaranteed to be large enough to store in the item
+
+(a) days in a month
+(b) days in a year
+(c) minutes in a days
+(d) seconds in a days
+
+
+(a) char
+(b) short
+(c) short
+(d) long

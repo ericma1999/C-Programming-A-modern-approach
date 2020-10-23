@@ -1,0 +1,28 @@
+Which of the following are not legal constants in C? Classify each legal constant as either 
+integer or floating-point
+
+(a) 010E2
+
+
+Legal constant as it is an integer
+10 * (10 ^ 2) = 1000
+
+(b) 32.1E+5
+
+Legal constant as it is a float
+32.1 * (10 ^ 5) = 3210000.0
+
+(c) 0790
+
+Not a legal constant. Should be octal but it has a 9
+
+(d) 100_000
+
+Not legal
+
+(e)
+
+3.978e^-2
+
+Legal constant as it is a float
+3.978 * (10 ^ -2) = 0.03978

@@ -1,0 +1,8 @@
+Suppose that i is a variable of type int, j is a variable of type long, and k is a variable of
+type unsigned int. What is the type of expression i + (int) j * k?
+
+(int) j * k will produce unsigned int
+
+i + (int) j * k will hence produced insigned int
+
+answer: unsigned int

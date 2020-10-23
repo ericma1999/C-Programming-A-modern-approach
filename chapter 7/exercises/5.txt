@@ -1,0 +1,9 @@
+Which one of the following is not a legal way to write the number 65?
+
+(a) 'A'
+(b) ob1000001
+(c) 0101
+(d) 0x41
+
+(b) cannot write binary in C
+
